@@ -1,3 +1,4 @@
 <resources>
   <string name="app_name">KotlinMVVM</string>
+  <string name="has_issues">Has Issues</string>
 </resources>
